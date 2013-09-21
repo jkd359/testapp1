@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  email: MyString
+  active: false
+  birthday: 2013-09-21
+  number_of_dogs: 1
+
+two:
+  name: MyString
+  email: MyString
+  active: false
+  birthday: 2013-09-21
+  number_of_dogs: 1
